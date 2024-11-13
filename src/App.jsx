@@ -4,7 +4,7 @@ import MovieDisplay from "../components/MovieDisplay";
 import Form from "../components/Form";
 
 function App() {
-  const apiKey = "e5de50b1";
+  const apiKey = "";
 
   const movieList = [
     "Harry Potter",
